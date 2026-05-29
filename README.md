@@ -55,4 +55,3 @@ threat-detection
 network-security
 incident-response
 automation
-ceh
